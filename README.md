@@ -1,4 +1,7 @@
 # 💫About Me :
+<p align="center">
+  <img alt="Introduction" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=1000&color=8FBCCBFF&center=true&vCenter=true&width=1000&lines=Hello+%F0%9F%91%8B;My+name+is+Nguyen+Tien+Dung;I'm+a+Mobile+Developer;I'm+a+Software+Engineer;Welcome+to+my+GitHub""/>
+</p>
 - 🇻🇳 : I'm from Vietnam  
 - 👀 : This is my personal information  
 - ✍️ : Here you'll find my blog and articles  

@@ -1,13 +1,14 @@
 # 💫About Me :
-🇻🇳 : I'm from Vietnam
-👀 : This is my personal information
-✍️ : Here you'll find my blog and articles
-📧 : Contact me at dungboi1029@gmail.com
-❤️ : I'm passionate about:
-  📱 Mobile Development
-  🖥️ Web Development
-  🤖 Artificial Intelligence (AI)
-  📊 Databases
+- 🇻🇳 : I'm from Vietnam  
+- 👀 : This is my personal information  
+- ✍️ : Here you'll find my blog and articles  
+- 📧 : Contact me at dungboi1029@gmail.com  
+- ❤️ : I'm passionate about:  
+  - 📱 Mobile Development  
+  - 🖥️ Web Development  
+  - 🤖 Artificial Intelligence (AI)  
+  - 📊 Databases  
+
 
 
 

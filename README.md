@@ -42,15 +42,17 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  ![](https://github-trophies.vercel.app/?username=ngtdungdev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  <img src="https://github-trophies.vercel.app/?username=ngtdungdev&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="100%"/>
 </div>
+
 
 ### ✍️Random Dev Quote
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</div>
+
   
 ### 😂Random Dev Meme
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

@@ -31,20 +31,27 @@
 ### 📊GitHub Stats :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![](https://github-readme-stats.vercel.app/api?username=ngtdungdev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ngtdungdev&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ngtdungdev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ngtdungdev&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="100%"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngtdungdev&theme=radical&hide_border=false" width="100%"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngtdungdev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%"/>
+</div>
+
 
 ### 🏆GitHub Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![](https://github-trophies.vercel.app/?username=ngtdungdev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  ![](https://github-trophies.vercel.app/?username=ngtdungdev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
 ### ✍️Random Dev Quote
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<div align="center">
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  
 ### 😂Random Dev Meme
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <p align="center">
